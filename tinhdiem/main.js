@@ -8,4 +8,3 @@ function tinhdiem(){
 	var x = (bt1 * 0.1) + (bt2 * 0.15) + (btgk * 0.2) + (kk * 0.05) + (thi * 0.5);
 	alert(x);
 }
-
