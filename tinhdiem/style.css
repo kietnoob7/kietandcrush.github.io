@@ -11,7 +11,7 @@ div {
 }
 
 after::placeholder{
-	color: #fff;
+	color: #222;
 }
 
 input[type=text] {
