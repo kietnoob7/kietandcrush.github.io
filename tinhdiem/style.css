@@ -10,7 +10,7 @@ div {
 	width: 25%;
 }
 
-after::placeholder{
+::placeholder{
 	color: #f3f6f4;
 }
 
