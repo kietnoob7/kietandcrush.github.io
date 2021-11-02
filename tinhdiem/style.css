@@ -10,8 +10,8 @@ div {
 	width: 25%;
 }
 
-::placeholder{
-	color: #222;
+after::placeholder{
+	color: #f3f6f4;
 }
 
 input[type=text] {
