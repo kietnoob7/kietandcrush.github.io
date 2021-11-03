@@ -36,6 +36,7 @@ input[type=submit] {
 	border: 1px solid #fff;
 	border-radius: 5px;
 	box-shadow: 0 5px #d4d2d2;
+        text-align: center;
 }
 
 label {
