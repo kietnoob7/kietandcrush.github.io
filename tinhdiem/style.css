@@ -39,11 +39,6 @@ input[type=submit] {
         text-align: center;
 }
 
-input[type=submit]:hover {
-	background-color: #64c86e;
-	color: #fff;
-}
-
 label {
 	font-family: 'Roboto';
 	font-size: 50px; 
