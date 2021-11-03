@@ -18,7 +18,7 @@ input[type=text] {
 	width: 100%;
 	background-color: rgb(255, 255, 255, 0.2);
 	color: #fff;
-	font-size: 20px;
+	font-size: 20px 0 20px 20px;
 	font-family: 'Baloo Thambi 2', cursive;
 	padding: 20px;
 	margin: 8px 0;
